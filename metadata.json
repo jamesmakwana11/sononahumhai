@@ -1,0 +1,6 @@
+{
+  "name": "SUNONA — Tum Bolo, Hum Sunenge",
+  "description": "Premium Indian personal-guidance platform for relationships, career confusion, and personal challenges. An immersive 3D cinematic experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
